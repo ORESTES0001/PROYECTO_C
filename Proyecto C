@@ -16,15 +16,15 @@ typedef struct sp
 } SP;
 
 // La declaración de la función está aquí
-void ListCreate(SP *L, int n); // Cree un nodo de lista vinculada a productos básicos
-void LIstSearch(SP *L);        // Encuentra información sobre el producto
-void ListModify(SP *L);        // Modificar la información del producto
-void ListInsert(SP *L);        // Insertar información del producto
-void ListDelete(SP *L);        // Eliminar información del producto
-void Input(SP *p, int i);      // Ingrese la información del producto
-void SumSp(SP *L);             // Estadísticas del inventario total de bienes
-void Sort(SP *L);              // Clasifica el inventario de cada categoría
-void Menu();                   // Menú del sistema de gestión de registro de exámenes
+void ListCreate(SP *L, int n); // Cree un nodo de lista vinculada a productos básicos Slender
+void LIstSearch(SP *L);        // Encuentra información sobre el producto  Orestes
+void ListModify(SP *L);        // Modificar la información del producto Orestes
+void ListInsert(SP *L);        // Insertar información del producto Orestes
+void ListDelete(SP *L);        // Eliminar información del producto Slender
+void Input(SP *p, int i);      // Ingrese la información del producto Orestes
+void SumSp(SP *L);             // Estadísticas del inventario total de bienes Slender
+void Sort(SP *L);              // Clasifica el inventario de cada categoría Slender
+void Menu();                   // Menú del sistema de gestión de registro de exámenes Orestes
 
 // La entrada de función principal del sistema de gestión de inventario de productos básicos
 int main()
